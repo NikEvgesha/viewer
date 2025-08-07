@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/Icons/free-icon-pencil-1166723.png</file>
+        <file>resources/Icons/free-icon-background-10134012.png</file>
+        <file>resources/Icons/free-icon-mountain-range-on-black-background-61103.png</file>
+        <file>resources/Icons/free-icon-open-folder-5082610.png</file>
+        <file>resources/Icons/free-icon-map-point-5817230.png</file>
+        <file>resources/Icons/free-icon-person-9924325.png</file>
+        <file>resources/Icons/free-icon-expand-square-interface-button-of-two-arrows-54269.png</file>
+        <file>resources/Icons/free-icon-projection-10433829.png</file>
+        <file>resources/Icons/free-icon-capture-8428668.png</file>
+        <file>resources/Icons/free-icon-gif-2441627.png</file>
+        <file>resources/Icons/free-icon-scan-11450605.png</file>
+        <file>resources/Icons/free-icon-route-1023368.png</file>
+    </qresource>
+</RCC>
